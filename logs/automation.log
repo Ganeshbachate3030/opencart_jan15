@@ -1,0 +1,79 @@
+08:53:56.982 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+08:53:57.221 [main] INFO  testCases.TC_001_AccountRegistration - click my acct
+08:53:58.033 [main] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+08:53:58.039 [main] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+08:53:59.797 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+08:53:59.798 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+10:12:04.563 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+10:12:14.698 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+10:12:14.698 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+10:12:45.674 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+10:12:45.958 [main] INFO  testCases.TC_001_AccountRegistration - click my acct
+10:12:47.108 [main] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+10:12:47.113 [main] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+10:12:48.778 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+10:12:48.778 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+10:33:00.543 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+10:33:00.898 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - click my acct
+10:33:01.665 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+10:33:01.674 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+10:33:03.290 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistration - test failed
+10:33:03.290 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - finish log test
+10:33:50.776 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+10:33:51.011 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct
+10:33:51.665 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+10:33:51.669 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+10:33:53.445 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistration - test failed
+10:33:53.445 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - finish log test
+13:24:05.029 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+13:24:05.272 [main] INFO  testCases.TC_001_AccountRegistration - click my acct
+13:24:05.971 [main] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+13:24:05.981 [main] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+13:24:07.761 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+13:24:07.761 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+13:26:45.662 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+13:26:45.880 [main] INFO  testCases.TC_001_AccountRegistration - click my acct
+13:26:46.735 [main] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+13:26:46.767 [main] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+13:26:48.603 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+13:26:48.603 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+22:56:22.824 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+22:56:22.824 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+22:56:23.069 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct
+22:56:23.114 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - click my acct
+22:56:31.423 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+22:56:31.431 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+22:56:31.501 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistration - test failed
+22:56:31.502 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - finish log test
+22:56:33.490 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistration - test failed
+22:56:33.490 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - finish log test
+09:43:05.231 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+09:43:05.231 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+09:43:05.451 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct
+09:43:05.505 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - click my acct
+09:43:16.202 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+09:43:16.217 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+09:43:16.275 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistration - test failed
+09:43:16.276 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - finish log test
+09:43:18.652 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistration - test failed
+09:43:18.652 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - finish log test
+10:14:24.906 [main] INFO  testCases.TC_002_LoginTest - ****Startng Tc 002 **
+10:18:56.902 [main] INFO  testCases.TC_002_LoginTest - ****Startng Tc 002 **
+10:20:02.942 [main] INFO  testCases.TC_002_LoginTest - ****Startng Tc 002 **
+10:20:03.774 [main] INFO  testCases.TC_002_LoginTest - ****Test FINISHED***
+13:03:54.704 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:04:13.801 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:04:13.890 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:04:16.459 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:04:30.734 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:04:30.750 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:04:44.672 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:04:44.684 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:45:17.488 [main] INFO  testCases.TC_001_AccountRegistration - *** Starting TC_001_AccountRegistration***
+13:45:18.010 [main] INFO  testCases.TC_001_AccountRegistration - click my acct
+13:45:20.413 [main] INFO  testCases.TC_001_AccountRegistration - click my acct registraion
+13:45:20.462 [main] INFO  testCases.TC_001_AccountRegistration - providing customer data 
+13:45:23.197 [main] ERROR testCases.TC_001_AccountRegistration - test failed
+13:45:23.197 [main] INFO  testCases.TC_001_AccountRegistration - finish log test
+13:45:34.787 [main] INFO  testCases.TC_002_LoginTest - ****Startng Tc 002 **
+13:45:45.561 [main] INFO  testCases.TC_002_LoginTest - ****Test FINISHED***
